@@ -8,7 +8,7 @@ def increment(num):
     finally:
         print("Thanks For Playing The Game!")
 
-increment('cool')
+increment('cool.your done now.')
 
 
 
